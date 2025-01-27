@@ -1,0 +1,10 @@
+dict1={
+    "name":"manthan",
+    "address":"kondwa",
+    "year":2006
+}
+dict2={
+    "age":18
+}
+dict1.update(dict2)
+print(dict1)

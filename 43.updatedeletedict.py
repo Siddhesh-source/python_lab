@@ -1,0 +1,9 @@
+dict1={
+    "name":"manthan",
+    "address":"kondwa",
+    "year":2006
+}
+dict1["age"]=18
+print(dict1)
+dict1.pop("year")
+print(dict1)
